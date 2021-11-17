@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img-circle{
+    background: grey;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 100%;
+}
+.section-1{
+    margin-top: 3%;
+}
+.boxes{
+    color: gray;
+    width: 100%;
+}
+.boxer-1{
+    width: 25%;
+}
+.boxer-2{
+    width: 25%;
+}
+.boxer-3{
+    width: 25%;
+}
+.resolution{
+    width: 376px;
+    height: 376px;
+    background: #eee;
+}
